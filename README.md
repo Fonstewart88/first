@@ -4,5 +4,6 @@
 
 Ответочка
 
+Приветочка ![картиночка](https://resheto.net/images/mater/pozitivnye_kartinki_1.jpg)
 
 
